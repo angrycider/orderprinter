@@ -1,0 +1,24 @@
+{
+	"customer": {
+		"id": "K0EE7HV6G8S0QD5NPEK03YY0BR",
+		"created_at": "2020-04-25T12:11:50.537Z",
+		"updated_at": "2020-04-25T12:11:51Z",
+		"given_name": "Dave",
+		"family_name": "Lemons",
+		"email_address": "akak1656@gmail.com",
+		"reference_id": "11ea86edf0cf8f96a53a0cc47a2b63cc",
+		"preferences": {
+			"email_unsubscribed": false
+		},
+		"groups": [{
+			"id": "1GDQAC7N5N2Z52D1G3M4EYM9HV",
+			"name": "Online Store"
+		}, {
+			"id": "MRA6DW7Y5P9Q5.REACHABLE",
+			"name": "Reachable"
+		}],
+		"creation_source": "THIRD_PARTY",
+		"group_ids": ["1GDQAC7N5N2Z52D1G3M4EYM9HV"],
+		"segment_ids": ["MRA6DW7Y5P9Q5.REACHABLE"]
+	}
+}
