@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.663.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "square-connect": "^3.20200422.1"
   }
 }
